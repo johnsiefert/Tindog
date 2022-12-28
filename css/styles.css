@@ -21,6 +21,9 @@ h1 {
 
     h3 {
         font-family: "Ubuntu";
+        font-size: 3.5rem;
+        line-height: 1.5;
+        font-weight: 900;
     }
 
     h2 {
@@ -128,4 +131,19 @@ padding: 0 0 4.5rem;
     transform: rotate(0);
 
 }
+}
+
+#cta {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+#footer {
+    text-align: center;
+    padding: 5%;
+}
+.footer-icon {
+    padding: 5px;
 }
